@@ -1,0 +1,56 @@
+{
+  "updated": "2026-07-22",
+  "note": "Fiyatlar henuz girilmedi. Her urunun 'price' alanini gercek fiyatla degistirin (orn. 180).",
+  "categories": [
+    {
+      "id": "pastalar",
+      "title": "Pastalar",
+      "description": "Vitrinimizden gunluk taze pastalar",
+      "items": [
+        { "id": "pasta-cikolatali", "name": "Cikolatali Damla Pasta", "price": null, "image": "cakes.png", "description": "Cikolata sosu ve damlalarla suslenmis dilim pasta" },
+        { "id": "pasta-kirmizi-meyveli", "name": "Kirmizi Meyveli Pasta", "price": null, "image": "cakes.png", "description": "Krema ve kirmizi meyvelerle hazirlanan pasta" },
+        { "id": "pasta-mozaik", "name": "Mozaik Pasta", "price": null, "image": "cakes.png", "description": "Bisküvili, cikolatali klasik mozaik dilim" },
+        { "id": "pasta-yas-limon", "name": "Islak Limonlu Kek", "price": null, "image": "cheesecake-tea.png", "description": "Serbetli, sulu limonlu kek dilimi" }
+      ]
+    },
+    {
+      "id": "tatlilar",
+      "title": "Tatlilar",
+      "description": "Gunluk hazirlanan Turk tatlilari ve lokumlar",
+      "items": [
+        { "id": "tatli-lokum-karisik", "name": "Karisik Lokum Tepsisi", "price": null, "image": "lokum-display.png", "description": "Cesitli lokum cesitlerinden olusan tepsi" },
+        { "id": "tatli-draje", "name": "Draje Cikolata Karisimi", "price": null, "image": "sweets.png", "description": "Renkli draje ve sekerleme karisimi" },
+        { "id": "tatli-madlen", "name": "Kaplamali Tatlilar", "price": null, "image": "sweets.png", "description": "Cikolata ve krema kaplamali kucuk tatlilar" }
+      ]
+    },
+    {
+      "id": "cikolatalar",
+      "title": "Cikolatalar",
+      "description": "El yapimi cikolata cesitleri",
+      "items": [
+        { "id": "cikolata-ucgen", "name": "Ucgen Bitter Cikolata", "price": null, "image": "chocolates.png", "description": "Findikli bitter cikolata parcasi" },
+        { "id": "cikolata-sutlu-kare", "name": "Sutlu Kare Cikolata", "price": null, "image": "chocolates.png", "description": "Sutlu cikolata kare" },
+        { "id": "cikolata-top", "name": "Cikolata Toplari", "price": null, "image": "chocolates.png", "description": "Kakao kaplamali cikolata toplari" }
+      ]
+    },
+    {
+      "id": "dondurma",
+      "title": "Dondurma",
+      "description": "Kaymakli ve meyveli dondurma cesitleri",
+      "items": [
+        { "id": "dondurma-fistik", "name": "Fistikli Dondurma", "price": null, "image": "icecream.png", "description": "Antep fistikli kaymak dondurma" },
+        { "id": "dondurma-cilek", "name": "Cilekli Dondurma", "price": null, "image": "icecream.png", "description": "Taze cilek aromali dondurma" },
+        { "id": "dondurma-limon", "name": "Limonlu Sorbe", "price": null, "image": "icecream.png", "description": "Ferahlatici limon sorbesi" }
+      ]
+    },
+    {
+      "id": "kahvalti",
+      "title": "Kahvalti ve Atistirmalik",
+      "description": "Gune baslarken veya ara ogunlerde",
+      "items": [
+        { "id": "kahvalti-serpme", "name": "Serpme Kahvalti Tabagi", "price": null, "image": "breakfast-plate.png", "description": "Peynir, zeytin, sebze ve cay ile serpme kahvalti" },
+        { "id": "atistirmalik-sandvic", "name": "Sandvic ve Patates Kizartmasi", "price": null, "image": "sandwich-fries.png", "description": "Sandvic yaninda patates kizartmasi ve soslar" }
+      ]
+    }
+  ]
+}
